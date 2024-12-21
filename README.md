@@ -20,6 +20,7 @@ Tecnologias Utilizadas
 ## Como Executar
 
 apenas clone este repositório e tenha um executavel em python para ele rodar 
+O programa solicitará ao usuário os parâmetros de entrada, como o número de processos, o tempo de execução de cada um, os valores de quantum e o tempo de aumento de prioridade. A partir dessas entradas, o programa simula o escalonamento dos processos.
 
 Entrada e Saída
 ---
