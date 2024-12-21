@@ -12,7 +12,7 @@ O programa simula o escalonamento de processos utilizando a técnica de **Escalo
 
 Tecnologias Utilizadas
 ---
-    Linguagem de Programação: Python
+    Linguagem de Programação: C++
     Estruturas de controle: Condicionais, loops.
     Entrada e Saída: Leitura e escrita de dados fornecidos pelo usuário. 
 ---
