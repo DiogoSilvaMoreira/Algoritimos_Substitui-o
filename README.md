@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este repositório contém a implementação do **Escalonamento por Prioridades**, uma técnica usada em sistemas operacionais para gerenciar a execução de processos com base em suas prioridades. O projeto foi desenvolvido como parte da disciplina de **Sistemas Operacionais** da **Universidade Federal de Alfenas (UNIFAL-MG)**.
+Este repositório contém a implementação do **Escalonamento por Prioridades**, uma técnica usada para para gerenciar a execução de processos com base em suas prioridades.
 
 ### Funcionalidade
 
